@@ -1,0 +1,13 @@
+Explain the purpose of try, except, else, and finally in Python.
+How do you raise custom exceptions in Python?
+What is the difference between except Exception as e and except SomeException as e?
+Explain the concept of exception propagation.
+How does the finally block differ from the else block in a try-except statement?
+
+## coding problems
+
+Write a function that handles a division by zero exception.
+Implement a program that reads a file, and handle the FileNotFoundError exception.
+Create a custom exception and use it in a Python script.
+Write a function to calculate the square root of a number, handling the ValueError exception.
+Implement a program that demonstrates the use of multiple except blocks.
